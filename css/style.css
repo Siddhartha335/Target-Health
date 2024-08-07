@@ -1171,6 +1171,7 @@ h3 {
 .header-area .header-top_area {
   padding: 12px 0;
   background: #e7f2e7;
+  font-weight: 900;
 }
 
 @media (max-width: 767px) {
@@ -6260,4 +6261,8 @@ h6 {
 
 .map {
   width:100%;
+}
+
+.fa-linkedin, .fa-facebook, .fa-google-plus {
+  font-weight: 900;
 }
