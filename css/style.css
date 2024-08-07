@@ -275,11 +275,11 @@ h3 {
   position: absolute;
   content: "";
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#5db2ff+0,7db9e8+100&1+24,0+96 */
-  background: -moz-linear-gradient(left, #01796F 0%, #40826D 24%, rgba(124, 185, 233, 0) 96%, rgba(125, 185, 232, 0) 100%);
+  background: -moz-linear-gradient(left, #4cc1bb 0%, #00a79e 24%, rgba(124, 185, 233, 0) 96%, rgba(125, 185, 232, 0) 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #01796F 0%, #40826D 24%, rgba(124, 185, 233, 0) 96%, rgba(125, 185, 232, 0) 100%);
+  background: -webkit-linear-gradient(left, #4cc1bb 0%, #00a79e 24%, rgba(124, 185, 233, 0) 96%, rgba(125, 185, 232, 0) 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #01796F 0%, #40826D 24%, rgba(124, 185, 233, 0) 96%, rgba(125, 185, 232, 0) 100%);
+  background: linear-gradient(to right, #4cc1bb 0%, #00a79e 24%, rgba(124, 185, 233, 0) 96%, rgba(125, 185, 232, 0) 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5db2ff', endColorstr='#007db9e8',GradientType=1 );
   /* IE6-9 */
@@ -414,13 +414,13 @@ h3 {
 /* line 29, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_btn.scss */
 .boxed-btn3 {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
-  background:   #097969;
+  background:   #00a79e;
   /* Old browsers */
-  background: -moz-linear-gradient(left,    #40826D 0%,   #097969 100%);
+  background: -moz-linear-gradient(left,   #00a79e 0%, #40826D 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(left,    #40826D 0%,   #097969 100%);
+  background: -webkit-linear-gradient(left,   #00a79e 0%, #40826D 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right,    #40826D 0%,   #097969 100%);
+  background: linear-gradient(to right,   #00a79e 0%, #40826D 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0181f5', endColorstr='#5db2ff',GradientType=1 );
   /* IE6-9 */
@@ -448,7 +448,7 @@ h3 {
 /* line 51, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_btn.scss */
 .boxed-btn3:hover {
   background: #fff;
-  color:   #097969 !important;
+  color:   #00a79e !important;
   border: 1px solid    #40826D;
 }
 
@@ -488,7 +488,7 @@ h3 {
 /* line 80, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_btn.scss */
 .boxed-btn3-white:hover {
   background: #fff;
-  color: #097969 !important;
+  color: #00a79e !important;
   border: 1px solid transparent;
 }
 
@@ -937,7 +937,7 @@ h3 {
 
 /* line 85, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a {
-  background:   #097969;
+  background:   #00a79e;
   padding: 12px 26px;
   font-size: 14px;
   font-weight: 400;
@@ -958,7 +958,7 @@ h3 {
 /* line 96, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a:hover {
   background: #fff;
-  color:   #097969;
+  color:   #00a79e;
   border: 1px solid    #40826D;
 }
 
@@ -1170,7 +1170,7 @@ h3 {
 /* line 248, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_header.scss */
 .header-area .header-top_area {
   padding: 12px 0;
-  background: #e7f2e7;
+  background: #ccedeb;
   font-weight: 900;
 }
 
@@ -1190,7 +1190,7 @@ h3 {
 
 /* line 259, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_header.scss */
 .header-area .header-top_area .social_media_links a:hover {
-  color:   #097969;
+  color:   #00a79e;
 }
 
 /* line 264, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_header.scss */
@@ -1227,7 +1227,7 @@ h3 {
 
 /* line 281, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_header.scss */
 .header-area .header-top_area .short_contact_list ul li a i {
-  color:   #097969;
+  color:   #00a79e;
   margin-right: 7px;
 }
 
@@ -1509,7 +1509,7 @@ h3 {
 
 /* line 118, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_about.scss */
 .business_expert_area .business_info .icon i {
-  background:    #40826D;
+  background:    #00a79e;
   width: 75px;
   height: 75px;
   display: inline-block;
@@ -1550,7 +1550,7 @@ h3 {
 
 /* line 151, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_about.scss */
 .business_expert_area .business_tabs_area {
-  background: #e7f2e7;
+  background: #ccedeb;
 }
 
 /* line 154, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_about.scss */
@@ -2341,7 +2341,7 @@ h3 {
 
 /* line 80, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_footer.scss */
 .footer .footer_top .footer_widget ul li a:hover {
-  color: #5DB2FF;
+  color: #00a79e;
 }
 
 /* line 86, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_footer.scss */
@@ -2676,7 +2676,7 @@ h3 {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_department.scss */
 .our_department_area {
-  background: #e7f2e7;
+  background: #ccedeb;
   padding-top: 120px;
   padding-bottom: 90px;
 }
@@ -2744,7 +2744,7 @@ h3 {
 
 /* line 40, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_department.scss */
 .our_department_area .single_department .department_content a.learn_more {
-  color: #097969;
+  color: #00a79e;
   font-size: 16px;
 }
 
@@ -2841,7 +2841,7 @@ h3 {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
 .service_area {
-  background:    #40826D;
+  background:    #4cc1bb;
 }
 
 /* line 3, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
@@ -2900,7 +2900,7 @@ h3 {
 
 /* line 40, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_service.scss */
 .service_area .col-xl-4:nth-child(2) .single_service {
-  background:   #097969;
+  background:   #00a79e;
 }
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_experts.scss */
@@ -2962,7 +2962,7 @@ h3 {
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  background: #e7f2e7;
+  background: #ccedeb;
   padding-top: 16px;
   padding-bottom: 18px;
 }
@@ -2998,7 +2998,7 @@ h3 {
 
 /* line 55, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_experts.scss */
 .expert_doctors_area .single_expert:hover .experts_name {
-  background: #097969;
+  background: #00a79e;
 }
 
 /* line 57, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_experts.scss */
