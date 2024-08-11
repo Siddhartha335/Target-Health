@@ -2464,6 +2464,25 @@ h3 {
   background-image: url(../img/banner/bradcam.png);
 }
 
+.breadcam_bg1 {
+  background-image: url(https://images.pexels.com/photos/3938023/pexels-photo-3938023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+.breadcam_bg2 {
+  background-image: url(https://images.pexels.com/photos/3845129/pexels-photo-3845129.jpeg);
+}
+.breadcam_bg3 {
+  background-image: url(https://img.freepik.com/premium-photo/closeup-photography-medical-instruments_1254992-86754.jpg?w=1480);
+}
+.breadcam_bg4 {
+  background-image: url(https://images.pexels.com/photos/4210559/pexels-photo-4210559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+.breadcam_bg5 {
+  background-image: url(https://images.pexels.com/photos/8376138/pexels-photo-8376138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+.breadcam_bg6 {
+  background-image: url(https://images.pexels.com/photos/139398/thermometer-headache-pain-pills-139398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_bradcam.scss */
 .breadcam_bg_1 {
   background-image: url(../img/banner/bradcam2.png);
@@ -2481,6 +2500,17 @@ h3 {
   background-position: center center;
   padding: 148px 0px;
   background-repeat: no-repeat;
+}
+
+.bradcam_areas {
+  padding: 170px;
+  background-size: cover;
+  background-position: center center;
+  padding: 148px 0px;
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 80vw;
+  margin: 20px auto;
 }
 
 @media (max-width: 767px) {
