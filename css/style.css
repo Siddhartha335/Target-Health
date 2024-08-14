@@ -2460,28 +2460,22 @@ h3 {
 }
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_bradcam.scss */
-.breadcam_bg {
-  background-image: url(../img/banner/bradcam.png);
+
+.services-img {
+  width: 90vw;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  height: 400px;
+  object-fit: cover;
 }
 
-.breadcam_bg1 {
-  background-image: url(https://images.pexels.com/photos/3938023/pexels-photo-3938023.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
-}
-.breadcam_bg2 {
-  background-image: url(https://images.pexels.com/photos/3845129/pexels-photo-3845129.jpeg);
-}
-.breadcam_bg3 {
-  background-image: url(https://img.freepik.com/premium-photo/closeup-photography-medical-instruments_1254992-86754.jpg?w=1480);
-}
-.breadcam_bg4 {
-  background-image: url(https://images.pexels.com/photos/4210559/pexels-photo-4210559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
-}
-.breadcam_bg5 {
-  background-image: url(https://images.pexels.com/photos/8376138/pexels-photo-8376138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
-}
-.breadcam_bg6 {
-  background-image: url(https://images.pexels.com/photos/139398/thermometer-headache-pain-pills-139398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
-}
+@media (max-width: 924px) {
+  .services-img{
+      width: 100vw;
+      height: 400px;
+  }
+} 
 
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_bradcam.scss */
 .breadcam_bg_1 {
